@@ -1,3 +1,4 @@
+'''Password generator is a programme that generates a random password using combinations of lower & upper case along with use of NUMBER AND Symbol'''
 import random 
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
